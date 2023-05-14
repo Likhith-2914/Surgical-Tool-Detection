@@ -7,9 +7,6 @@
 `Report.pdf` contains the Report
 \
 \
-`slides` are the slides used to present weekly-updates
-\
-\
 `yolov7` is the complete model details
 
 # Training
