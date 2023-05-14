@@ -16,7 +16,7 @@
 Clone/Download the github repo to your device and open the root in terminal. Run the below command in terminal
 \
 `python3 runner.py`
-\
+
 # Testing
 When you train the model using above command, a weights-folder `best.pt` gets installed at `runs/train/yolov7-v1/weights`. Otherwise
 download the weight folder [best.pt](https://github.com/Likhith-2914/Surgical-Tool-Detection/releases/download/weights/best.pt) directly from here and store
