@@ -15,6 +15,7 @@
 # Training
 Clone/Download the github repo to your device and open the root in terminal. Run the below command in terminal
 \
+\
 `python3 runner.py`
 
 # Testing
