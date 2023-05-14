@@ -1,0 +1,7 @@
+train: ./yolov7/m2cai16toollocations/train.txt
+val: ./yolov7/m2cai16toollocations/val.txt
+test: ./yolov7/m2cai16toollocations/test.txt
+
+nc: 7
+
+names: ['Grasper', 'Bipolar', 'Hook', 'Scissors', 'Clipper', 'Irrigator', 'SpecimenBag']
