@@ -8,6 +8,9 @@
 \
 \
 `yolov7` is the complete model details
+\
+\
+`slides` contains the .ppt files used to present the updates
 
 # Training
 Clone/Download the github repo to your device and open the root in terminal. Run the below command in terminal
